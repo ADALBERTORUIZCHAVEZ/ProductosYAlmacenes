@@ -1,5 +1,7 @@
 # ProductosYAlmacenes
 Sistema básico de inventario
+Desarrollado por:
+- Adalberto Ruiz Chavez
 
 Este proyecto tiene como objetivo el desarrollar un sistema de gestión de inventarios de productos y almacenes
 Este sistema permite:
