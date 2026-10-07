@@ -31,6 +31,7 @@ Tecnologías utilizadas
 - Java Swing
 - SQLite
 - NetBeans
+
 Inicio de sesión:
 <p align="center">
   <img src= "https://github.com/ADALBERTORUIZCHAVEZ/ProductosYAlmacenes/blob/main/Imagenes/InicioSesion.PNG" alt="logo"/>
