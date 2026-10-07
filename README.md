@@ -3,16 +3,34 @@ Sistema básico de inventario
 Desarrollado por:
 - Adalberto Ruiz Chavez
 
-Este proyecto tiene como objetivo el desarrollar un sistema de gestión de inventarios de productos y almacenes
-Este sistema permite:
-- Registrar productos con precio, stock, departamento y almacén asignado.
-- Administrar almacenes y mantenerlos actualizados.
-- Gestionar usuarios con diferentes roles y permisos.
-- Filtrar información mediante herramientas avanzadas de búsqueda.
-- Mantener un registro histórico de modificaciones para asegurar trazabilidad.
+Este proyecto consiste en un sistema básico para la gestión de inventarios, productos y almacenes.
+El sistema permite registrar y administrar productos, controlar sus existencias y asociarlos con diferentes almacenes. También cuenta con un sistema de usuarios con diferentes roles y permisos para controlar las acciones que puede realizar cada usuario.
+Características principales:
+- Inicio de sesión de usuarios.
+- Gestión de productos.
+- Gestión de almacenes.
+- Registro de precio y stock.
+- Asignación de productos a almacenes.
+- Diferentes roles y permisos de usuario.
+- Filtrado de información.
+- Modificación y eliminación de registros.
+- Registro histórico de modificaciones.
+- Interfaz gráfica desarrollada en Java Swing.
+- Base de datos SQLite.
 
-Siendo este una plataforma sencilla para el control de un inventario
+Roles
 
+El sistema contempla diferentes permisos dependiendo del tipo de usuario:
+
+- Administrador: puede gestionar productos y almacenes.
+- Usuario de productos: puede administrar información relacionada con productos.
+- Usuario de almacenes: puede administrar información relacionada con almacenes.
+
+Tecnologías utilizadas
+- Java
+- Java Swing
+- SQLite
+- NetBeans
 Inicio de sesión:
 <p align="center">
   <img src= "https://github.com/ADALBERTORUIZCHAVEZ/ProductosYAlmacenes/blob/main/Imagenes/InicioSesion.PNG" alt="logo"/>
